@@ -1,0 +1,166 @@
+
+/* ========================= Font Poppins ========================== */
+
+@font-face {
+    font-family: 'Fz Poppins ExtBd';
+    src: url('Poppins/FzPoppins-ExtraBold.woff2') format('woff2'),
+        url('Poppins/FzPoppins-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-BoldItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-Bold.woff2') format('woff2'),
+        url('Poppins/FzPoppins-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-BlackItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins ExtBd';
+    src: url('Poppins/FzPoppins-ExtraBoldItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-Black.woff2') format('woff2'),
+        url('Poppins/FzPoppins-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins ExtLt';
+    src: url('Poppins/FzPoppins-ExtraLightItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-Italic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins ExtLt';
+    src: url('Poppins/FzPoppins-ExtraLight.woff2') format('woff2'),
+        url('Poppins/FzPoppins-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-LightItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins Med';
+    src: url('Poppins/FzPoppins-Medium.woff2') format('woff2'),
+        url('Poppins/FzPoppins-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-Light.woff2') format('woff2'),
+        url('Poppins/FzPoppins-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-Regular.woff2') format('woff2'),
+        url('Poppins/FzPoppins-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins Med';
+    src: url('Poppins/FzPoppins-MediumItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins SemBd';
+    src: url('Poppins/FzPoppins-SemiBold.woff2') format('woff2'),
+        url('Poppins/FzPoppins-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-Thin.woff2') format('woff2'),
+        url('Poppins/FzPoppins-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins';
+    src: url('Poppins/FzPoppins-ThinItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fz Poppins SemBd';
+    src: url('Poppins/FzPoppins-SemiBoldItalic.woff2') format('woff2'),
+        url('Poppins/FzPoppins-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+
