@@ -5,6 +5,7 @@
 html {
     font-size: 62.5%;
     --primaty-color: #0f1b4c;
+    scroll-behavior: smooth;
 }
 
 body {
@@ -167,15 +168,19 @@ a {
     align-items: center;
 }
 
-.image div {
+.image .prominent {
     border-radius: 1.2rem;
     background: #FFF;
     box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.10);
+    padding: 3.19rem 4.12rem 2.26rem 4.15rem;
 }
 
-.image .prominent img {
-    padding: 3.19rem 4.12rem 2.26rem 4.15rem;
-} 
+.image:hover {
+    cursor: pointer;
+}
+
+
+
 
 /*================== Guides ===================== */
 
@@ -440,7 +445,8 @@ a {
 
 .stat .stat-trend {
     width: 23.9rem;
-    border-radius: 0 0 1.2rem 1.2rem;
+    border-bottom-right-radius: 1.2rem;
+    border-bottom-left-radius: 1.2rem;
     background: #ffffff;
     padding-top: 4.5rem ;
     padding-left: 2.2rem;
