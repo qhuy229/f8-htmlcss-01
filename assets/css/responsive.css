@@ -239,7 +239,6 @@
 
     .stat .info .title {
         width: 100%;
-
     }
 
     .stat .stat-img {
@@ -267,5 +266,4 @@
         flex-direction: column;
         align-items: flex-start;
     }
-
-    
+}
